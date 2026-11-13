@@ -1,1 +1,23 @@
 /target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# TestNG generated reports
+/test-output/
+
+# Extent reports
+src/test/resources/TestReports/
+
+# Generated screenshots
+src/test/resources/Screenshots/
+src/test/resources/ScreenShot/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
